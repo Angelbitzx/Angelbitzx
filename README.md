@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-https://github.com/user-attachments/assets/f6b39451-4ef8-4193-acbe-c7ef09283ffb
+<img width="500" height="281" alt="Image" src="https://github.com/user-attachments/assets/f6b39451-4ef8-4193-acbe-c7ef09283ffb" />
 
 I'm a programming student driven by curiosity and the desire to create meaningful solutions through technology.
 
