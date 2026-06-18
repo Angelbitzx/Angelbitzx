@@ -1,6 +1,14 @@
 # 💫 About Me:
-Currently, I am a highly regarded programming student.<br>I am constantly learning about various programming languages, such as Python, Lua, C, and HTML. <br>I work in backend development, but I also possess sufficient skills to work with databases.<br>I wish to learn about cybersecurity and artificial intelligence. <br>But my main goal is to renovate machines through my ideas. 
 
+I'm a programming student driven by curiosity and the desire to create meaningful solutions through technology.
+
+💻 Currently expanding my knowledge in languages such as **Python, C, Lua, and HTML**, while continuously exploring new tools and development practices.
+
+⚙️ My main focus is **backend development**, with solid experience working with **databases** and building reliable systems.
+
+🔒 I'm also passionate about learning **cybersecurity** and **artificial intelligence**, aiming to broaden my understanding of modern computing.
+
+🛠️ Above all, my greatest goal is to **transform and revitalize machines through creativity, innovation, and my own ideas**, turning concepts into practical solutions.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7ZPn8x6XS) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flp.jordann) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Kira) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Traditional_Box_957) 
