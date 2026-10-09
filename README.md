@@ -1,3 +1,7 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=100&fontAlignY=100&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=FF5146"  />
+</div>
+
 # 💫 "Hello, World"
 I'm Jordan, a programming student driven by curiosity and the desire to create meaningful solutions through technology.<br><br>💻 Currently expanding my knowledge in languages such as <strong>Python, C, Lua, and HTML</strong>, while continuously exploring new tools and development practices.<br><br>⚙️ My main focus is <strong>backend development</strong>, with solid experience working with <strong>databases</strong> and building reliable systems.<br><br>🔒 I'm also passionate about learning <strong>cybersecurity</strong> and <strong>artificial intelligence</strong>, aiming to broaden my understanding of modern computing.<br><br>🛠️ Above all, my greatest goal is to transform and revitalize machines through creativity, innovation, and my own ideas, turning concepts into practical solutions.
 
