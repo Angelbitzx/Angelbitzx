@@ -3,7 +3,8 @@
 </div>
 
 # 💫 "Hello, World"
-I'm Jordan, a programming student driven by curiosity and the desire to create meaningful solutions through technology.<br><br>💻 Currently expanding my knowledge in languages such as <strong>Python, C, Lua, and HTML</strong>, while continuously exploring new tools and development practices.<br><br>⚙️ My main focus is <strong>backend development</strong>, with solid experience working with <strong>databases</strong> and building reliable systems.<br><br>🔒 I'm also passionate about learning <strong>cybersecurity</strong> and <strong>artificial intelligence</strong>, aiming to broaden my understanding of modern computing.<br><br>🛠️ Above all, my greatest goal is to transform and revitalize machines through creativity, innovation, and my own ideas, turning concepts into practical solutions.
+I'm Jordan, a programming student driven by curiosity and the desire to create meaningful solutions through technology.<br><br>💻 Currently expanding my knowledge in languages such as <strong>Python, C, Lua, and HTML</strong>, while continuously exploring new tools and development practices.<br><br>⚙️ My main focus is <strong>backend development</strong>, with solid experience working with <strong>databases</strong> and building reliable systems.<br><br>🔒 I'm also passionate about learning <strong>cybersecurity</strong> and <strong>artificial intelligence</strong>, aiming to broaden my understanding of modern computing.<br><br>🛠️ Above all, my greatest goal is to transform and revitalize machines through creativity, innovation, and my own ideas, turning concepts into practical solutions.<br>
+
 <img width="498" height="280" alt="Image" src="https://github.com/user-attachments/assets/97addae1-ec9e-481f-96d8-2eb4c4584b6b" />
 
 ## 🌐 Socials:
