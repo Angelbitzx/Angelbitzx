@@ -17,7 +17,7 @@
 
 ###
 
-<img data-importer="image" align="left" height="475" src="https://giffiles.alphacoders.com/172/172151.gif"  />
+<img data-importer="image" align="left" height="1000" src="https://giffiles.alphacoders.com/172/172151.gif"  />
 
 ###
 
