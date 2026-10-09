@@ -8,7 +8,7 @@ I'm Jordan, a programming student driven by curiosity and the desire to create m
 <img width="498" height="280" alt="Image" src="https://github.com/user-attachments/assets/97addae1-ec9e-481f-96d8-2eb4c4584b6b" />
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EAFEkrfNa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contaalternativabeta@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/987134661404798986) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contaalternativabeta@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
